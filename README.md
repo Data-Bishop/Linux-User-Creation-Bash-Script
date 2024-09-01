@@ -1,5 +1,15 @@
 # LINUX USER CREATION BASH SCRIPT
 
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+![Made with Bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)
+
+## Introduction
+This repository contains a step-by-step walkthrough of a project I recently worked on, where I needed to automate user management in Linux This project was one of the tasks for the HNG 11 internship, a program designed to accelerate learning and development in the tech industry.
+
+[Read the Project Documentation](https://dev.to/databishop/smart-sysadmin-automating-user-management-on-linux-with-bash-scripts-57mc)
+
 ## Understanding the Requirements
 
 **Overview:**
